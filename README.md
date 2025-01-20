@@ -231,6 +231,16 @@ If you use this code for your research, please cite our papers.
 }
 ```
 
+## CycleGAN Result
+clean image
+![Untitled (18)](https://github.com/user-attachments/assets/6f6cfaf9-5be9-4957-a3c8-f1bff38e427e)
+soil image: G_c2s(clean image)
+![Untitled (17)](https://github.com/user-attachments/assets/8e36fbf9-3fcc-4726-a843-ee0133ccfdb3)
+
+## Pix2Pixl Result
+![Untitled (19)](https://github.com/user-attachments/assets/442c8b32-3721-4cb9-a66d-a8994c079d5e)
+![Untitled (20)](https://github.com/user-attachments/assets/787d1bf2-1cbd-463d-ab39-09cf61703471)
+
 ## Other Languages
 [Spanish](docs/README_es.md)
 
